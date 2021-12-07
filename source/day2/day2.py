@@ -1,7 +1,6 @@
 from typing import *
 import os
 import pandas as pd
-from pandas.core.window import rolling 
 
 def day2() -> None:
     with open('input.txt') as input:
